@@ -3,11 +3,13 @@
 Welcome to **7days15apps**!
 This repository is a showcase of 15 projects I built in just 7 days, while juggling my work as an Android Programmer, surviving lecture quiz week, and organizing an upcoming event at the Google Developer Groups on Campus (Binus University Online).
 
+
 ## About
 
 **Why did I do this?**  
 I challenged myself to rapidly build a diverse set of applications to sharpen my skills, push my creativity, and prove that with determination (and a bit of caffeine), you can achieve amazing things—even when life gets busy!
 
+---
 ## Project List
 
 Each project lives in its own folder. Here’s what you’ll find:
@@ -30,6 +32,18 @@ Each project lives in its own folder. Here’s what you’ll find:
 | 14-github-finder           | Search for GitHub users and display their profiles.   |
 | 15-404-page                | Creative and fun custom 404 error page.               |
 | 16-newsletter-signup       | Newsletter signup form with validation and feedback.  |
+
+### Fun Fact ⭐
+
+Even with a busy week, I managed to get a perfect score (100 pts!) on my quizzes for both Big Data Technologies and Industrial Feasibility Analysis. Balancing study, work, and coding marathons is possible!
+
+- ![Big Data Tech Quiz](https://github.com/Alfiyansya/7days15apps/blob/main/images/big-data-quiz.png)
+*Big Data Technologies – Quiz 1: 100 pts*
+
+- ![Data Tech Quiz](https://github.com/Alfiyansya/7days15apps/blob/main/images/industrial-feasibility-analysis-quiz.png)
+*Industrial Feasibility Analysis – Quiz 1: 100 pts*
+
+---
 
 ## How to Use
 
